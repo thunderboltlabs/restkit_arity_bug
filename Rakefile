@@ -5,7 +5,7 @@ require 'bundler'
 Bundler.require
 
 Motion::Project::App.setup do |app|
-  app.name = 'restkit_airity_bug'
+  app.name = 'restkit_arity_bug'
   app.pods do
     pod "SDWebImage"
     pod "RestKit"
